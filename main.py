@@ -7,6 +7,7 @@
 
 # Step 2: Import Pandas
 import pandas as pd
+import numpy as np
 
 # Step 3: Create a DataFrame
 data = {
